@@ -1,3 +1,5 @@
-# nodePractice
-deploy - npm start
-run tests - npm test
+nodePractice
+========================
+
+- deploy - npm start
+- run tests - npm test
