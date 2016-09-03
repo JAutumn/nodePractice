@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "request": "*"
+  },
+
+  "config": {
+    "port" : "3000"
+  },
+
+  "scripts": {
+    "start" : "node lib/server.js",
+    "test"  : " ./node_modules/mocha/bin/mocha test/server_test.js"
+  }
+}
